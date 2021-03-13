@@ -1,0 +1,15 @@
+{
+    "name": "turbovladimir/telebot",
+    "type": "project",
+    "description": "telebot",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "longman/telegram-bot": "^0.71.0",
+        "phpunit/phpunit": "^9.5",
+        "symfony/dotenv": "^5.2"
+    }
+}
