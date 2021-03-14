@@ -8,8 +8,9 @@
         }
     },
     "require": {
-        "longman/telegram-bot": "^0.71.0",
+        "longman/telegram-bot": "0.70",
         "phpunit/phpunit": "^9.5",
-        "symfony/dotenv": "^5.2"
+        "symfony/dotenv": "^5.2",
+        "php-telegram-bot/telegram-bot-manager": "^1.6"
     }
 }
